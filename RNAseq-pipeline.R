@@ -98,6 +98,7 @@ gene_fusion=paste(sampledir,"gene_fusion/",sep="")
 diff_expression=paste(sampledir,"diff_expression/",sep="")
 variants=paste(sampledir,"variants/",sep="")
 read_counts_all=paste(workDir,"read_counts_all/",sep="")
+fusionAnalysis=paste(workDir,"fusionAnalysisResults/",sep="")
 allDirs=c(sampledir,fastqc,mapping,read_counts,gene_fusion,diff_expression,variants,read_counts_all)
 
 
