@@ -19,3 +19,5 @@ The **RNAseq-pipeline.R** script calls a number of RNA-seq pipelines including q
 The **DiffExpression-EdgeR.R** script performs differential expression analysis as a continuation of the previous script using edgeR
 
 The **Fusion_Analysis.R** script analyzes output of gene fusion results from deFuse or STAR-Fusion and creates a number of plots
+
+The **DiffExpression-limma-Camera.R** script performs differential expression analysis using limma-voom and camera
